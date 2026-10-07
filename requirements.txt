@@ -1,4 +1,9 @@
-torch>=1.6.0
-torchcontrib
-numpy
+torch==2.14.1
+torchaudio==2.11.0
+torchcontrib==0.0.2
+numpy==2.5.3
 soundfile
+librosa
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
