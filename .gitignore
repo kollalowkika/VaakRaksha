@@ -1,0 +1,14 @@
+venv/
+LA/
+exp_result/
+__pycache__/
+*.pyc
+*.zip
+*.flac
+*.mp3
+*.mpeg
+*.wav
+cloudflared.log
+app_deploy_backup.pyapp_backup.py
+app_backup.py
+app_deploy_backup.py
